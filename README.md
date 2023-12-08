@@ -28,9 +28,9 @@ Vous pouvez y retrouver des exercices à effectuer et aussi des programmes à su
 
 Une fois sur le site, vous tomberez sur la page d'accueil. Inscrivez-vous en cliquant sur le bouton "Inscrivez-vous ici".
 Vous êtes maintenant sur la page d'inscription : Renseignez les champs du formulaire rigoureusement sachant que votre mot de passe doit contenir au minimum une lettre miniscule, une lettre majuscule, un chiffre et un caractère spécial.
-Si tous les champs sont remplis correctement, vous serez redirigés sur la page connexion pour vous connecter.
+Si tous les champs sont remplis correctement, vous serez redirigé sur la page connexion pour vous connecter.
 Bravo ! Vous voilà utilisateur de Shonen Muscu ! Vous pouvez maintenant consulter les exercices de musculation ainsi que les programmes proposés par notre expert en musculation. 
 
 ## Contact
 
-Pour toute question ou préoccupation, contactez notre équipe développement à ces addresses mails : "geoffrey.joly@student.junia.com" "hassan.ghandour@student.junia.com" "mohamed.chikh@student.junia.com" "clement.de-temmerman@student.junia.com"
+Pour toute question ou préoccupation, contactez notre équipe développement à ces adresses mails : "geoffrey.joly@student.junia.com" "hassan.ghandour@student.junia.com" "mohamed.chikh@student.junia.com" "clement.de-temmerman@student.junia.com"
