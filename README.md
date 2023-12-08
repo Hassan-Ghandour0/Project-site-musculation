@@ -19,7 +19,7 @@ Vous pouvez y retrouver des exercices à effectuer et aussi des programmes à su
 
 4. **Configurez le serveur Tomcat**  
   Vous devez avoir installer Tomcat sur votre ordinateur.
-  Une fois cela fait, vous devez le configurez sur Intellij IDEA avec l'URL "http://localhost:8080/home" et l'artéfact "java-cinee-db:war"
+  Une fois cela fait, vous devez le configurez sur Intellij IDEA avec l'URL "http://localhost:8080/home" et l'artéfact "shonen-muscu:war"
 
 5. **Lancez le serveur Tomcat**  
   Vous pouvez maintenant lancer le serveur et commencer à utiliser notre site
@@ -36,7 +36,7 @@ Vous pouvez y retrouver des exercices à effectuer et aussi des programmes à su
   Bravo ! Vous voilà utilisateur de Shonen Muscu ! Vous pouvez maintenant consulter les exercices de musculation ainsi que les programmes proposés par notre expert en musculation. 
 
 3. **Connexion Administrateur**  
-  Veuillez renseigner les identifiants suivants : "" (Nom d'utilisateur) "" (mot de passe)
+  Veuillez renseigner les identifiants suivants : "clem" (Nom d'utilisateur) "1234" (mot de passe)
 
 ## Contact
 
