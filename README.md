@@ -26,10 +26,17 @@ Vous pouvez y retrouver des exercices à effectuer et aussi des programmes à su
 
 ## Utilisation
 
-Une fois sur le site, vous tomberez sur la page d'accueil. Inscrivez-vous en cliquant sur le bouton "Inscrivez-vous ici".
-Vous êtes maintenant sur la page d'inscription : Renseignez les champs du formulaire rigoureusement sachant que votre mot de passe doit contenir au minimum une lettre miniscule, une lettre majuscule, un chiffre et un caractère spécial.
-Si tous les champs sont remplis correctement, vous serez redirigé sur la page connexion pour vous connecter.
-Bravo ! Vous voilà utilisateur de Shonen Muscu ! Vous pouvez maintenant consulter les exercices de musculation ainsi que les programmes proposés par notre expert en musculation. 
+1. Inscription
+	Une fois sur le site, vous tomberez sur la page d'accueil. Inscrivez-vous en cliquant sur le bouton "Inscrivez-vous ici".
+	Vous êtes maintenant sur la page d'inscription : Renseignez les champs du formulaire rigoureusement sachant que votre mot de passe doit contenir au minimum une lettre miniscule, une lettre majuscule, un chiffre et un caractère spécial.
+
+2. Connexion Utilisateur
+	Si tous les champs sont remplis correctement, vous serez redirigé sur la page connexion pour vous connecter.
+	Vous devez donc fournir les identifiants que vous avez donnés lors de l'inscription.
+	Bravo ! Vous voilà utilisateur de Shonen Muscu ! Vous pouvez maintenant consulter les exercices de musculation ainsi que les programmes proposés par notre expert en musculation. 
+
+3. Connexion Administrateur
+	Veuillez renseigner les identifiants suivants : "" (Nom d'utilisateur) "" (mot de passe)
 
 ## Contact
 
