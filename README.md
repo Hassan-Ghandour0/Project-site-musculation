@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shonen Muscu
 
 Bienvenue sur notre projet Shonen Muscu ! Ce projet est un site web qui contient toutes les connaissances de la musculation. 
@@ -41,3 +42,6 @@ Vous pouvez y retrouver des exercices à effectuer et aussi des programmes à su
 ## Contact
 
 Pour toute question ou préoccupation, contactez notre équipe développement à ces adresses mails : "geoffrey.joly@student.junia.com" "hassan.ghandour@student.junia.com" "mohamed.chikh@student.junia.com" "clement.de-temmerman@student.junia.com"
+=======
+# project3
+>>>>>>> 594dfa9f431a42b831e7dcbff7c75c155cc9441f
